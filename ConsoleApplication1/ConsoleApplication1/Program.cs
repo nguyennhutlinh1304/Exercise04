@@ -12,5 +12,9 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello World");
         }
+        public static bool IsOdd(int n)
+        {
+            return true;
+        }
     }
 }
